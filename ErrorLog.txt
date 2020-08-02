@@ -1,0 +1,4 @@
+Student Donte Russo has an invalid Rank, 0 from input file. The student is included in the final groupings.
+Student Madiha Blundell has an invalid Rank, 5 from input file. The student is included in the final groupings.
+Student Ruairi Martin has an invalid Rank, -2 from input file. The student is included in the final groupings.
+Student Sohaib Orozco has an invalid Rank, ERROR from input file. The student is included in the final groupings.
