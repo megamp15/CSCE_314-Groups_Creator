@@ -1,10 +1,10 @@
 # CSCE_314-Groups_Creator
-Creates pairs of students based on responses from a survey.
+### Creates pairs of students based on responses from a survey.
 
-Code Setup:
+### Code Setup:
 ![](UML.png)
 
-Some assumptions:
+### Project assumptions:
 1.	Names (first and last) will always be separated by a space
 2.	The UIN is denoted by the first part of their email.  87123AA3@tamu.edu so 87123AA3 is their UIN
 3.	In the results, there likely will be someone by themselves. They become a “sub” for anyone sick.
@@ -21,4 +21,4 @@ Some assumptions:
 14.	Any errors caught…will be logged in ErrorLog.txt - the error description must state where (file/class) the error was caught and why
 15.	Results of grouping should be placed in results.txt in this form:
 
-502 - Bowen Lupoli (4) Jamila Booth (2)
+    502 - Bowen Lupoli (4) Jamila Booth (2)
